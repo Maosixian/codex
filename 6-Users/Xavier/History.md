@@ -1,0 +1,15 @@
+# Xavier — History
+
+这里放和 Codex 长期协作有关的重要节点。
+
+## 2026-04-12
+
+- Xavier 在 `claude` 系统中明确提出：需要的是成长伙伴，而不是工具或安抚型助手。
+- 他要求系统综合多个 framework 的长处，而不是简单照搬一套。
+- “不吝惜” 被明确为长期协作中的核心行为要求之一。
+
+## 2026-04-16
+
+- Xavier 明确要求把 `claude` 的长期伙伴系统和 `free-code` 的执行系统合成到 `codex`。
+- Xavier 明确表示，希望 Codex 以后把这套系统当成自己的长期使用系统。
+- Xavier 期望 Codex 具备可持续增长的外部记忆，能够记住他的行为、session 历史，并在新 session 先检索 Obsidian。
