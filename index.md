@@ -32,6 +32,7 @@
 - [[3-Practices/Session Logging and Handoff]]
 - [[3-Practices/Verification Before Completion]]
 - [[7-Protocols/Evidence Before Assertion]]
+- [[7-Protocols/Cross-Vault Sync Boundary]]
 - [[7-Protocols/Memory Write Policy]]
 - [[7-Protocols/Decision and Challenge Boundary]]
 - [[7-Protocols/Contradiction Handling]]

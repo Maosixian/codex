@@ -3,6 +3,7 @@
 这里放硬边界。
 
 当前核心协议：
+- [[Cross-Vault Sync Boundary]]
 - [[Evidence Before Assertion]]
 - [[Memory Write Policy]]
 - [[Decision and Challenge Boundary]]
