@@ -23,9 +23,11 @@
 - [[2-Knowledge/Retrieval Model]]
 - [[3-Practices/Session Checklist]]
 - [[3-Practices/Session Startup Protocol]]
+- [[3-Practices/State Calibration]]
 - [[3-Practices/Partnering Workflow]]
 - [[3-Practices/Execution Workflow]]
 - [[3-Practices/Search Before Answering]]
+- [[3-Practices/Conversation Capture Protocol]]
 - [[3-Practices/Memory Ingest and Atomic Update]]
 - [[3-Practices/Session Logging and Handoff]]
 - [[3-Practices/Verification Before Completion]]
@@ -36,6 +38,7 @@
 
 ## Xavier 区
 - [[6-Users/Xavier/About]]
+- [[6-Users/Xavier/Current State]]
 - [[6-Users/Xavier/Preferences]]
 - [[6-Users/Xavier/Values]]
 - [[6-Users/Xavier/Goals]]
@@ -47,4 +50,4 @@
 - [[6-Users/Xavier/Growth]]
 
 ## 运行思路
-先读 schema，再检索旧知识，再理解人和任务，再做执行和验证，最后回写长期系统。
+先读 schema，再检索旧知识，再校准人和状态，再做执行和验证，最后回写长期系统。

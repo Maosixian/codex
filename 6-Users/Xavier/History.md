@@ -13,3 +13,10 @@
 - Xavier 明确要求把 `claude` 的长期伙伴系统和 `free-code` 的执行系统合成到 `codex`。
 - Xavier 明确表示，希望 Codex 以后把这套系统当成自己的长期使用系统。
 - Xavier 期望 Codex 具备可持续增长的外部记忆，能够记住他的行为、session 历史，并在新 session 先检索 Obsidian。
+
+## 2026-04-18
+
+- Xavier 要求重新比较四个 vault 的区别。
+- Xavier 希望确认能否做出一个综合版，结合四者优点。
+- Xavier 强调只能继续修改 `codex`，不能动其他 vault，也不能动 `obsidian-auto-sync`。
+- Xavier 进一步强调：希望新对话开始后先读 vault，并把每次对话的重点和信息记录进 Obsidian。

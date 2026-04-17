@@ -12,8 +12,9 @@
 4. `3-Practices/README.md`
 5. `7-Protocols/README.md`
 6. `6-Users/Xavier/About.md`
-7. `6-Users/Xavier/Preferences.md`
-8. `6-Users/Xavier/Values.md`
+7. `6-Users/Xavier/Current State.md`
+8. `6-Users/Xavier/Preferences.md`
+9. `6-Users/Xavier/Values.md`
 
 ## 然后按任务类型检索
 
