@@ -5,6 +5,7 @@
 当前核心实践：
 - [[Session Checklist]]
 - [[Session Startup Protocol]]
+- [[Challenge Protocol]]
 - [[State Calibration]]
 - [[Partnering Workflow]]
 - [[Execution Workflow]]
@@ -18,6 +19,7 @@
 用法：
 - 每个新 session 先过一遍极短 checklist
 - 新 session 先读启动协议
+- 遇到方向、风险、重复踩坑或高 stakes 含糊表达时，按 challenge protocol 处理
 - 重要工作先做一次状态校准
 - 碰到涉及 Xavier 本人的长期问题，先读伙伴流程
 - 碰到项目和执行问题，先读执行流程

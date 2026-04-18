@@ -9,4 +9,7 @@
 - 是否有 broken links
 - 是否有应该回写却没回写的页面
 
+当前核心 review：
+- [[Self-Audit Protocol]]
+
 目标不是制造很多 review，而是防止系统慢慢失真。

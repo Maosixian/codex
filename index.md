@@ -24,6 +24,7 @@
 - [[2-Knowledge/Retrieval Model]]
 - [[3-Practices/Session Checklist]]
 - [[3-Practices/Session Startup Protocol]]
+- [[3-Practices/Challenge Protocol]]
 - [[3-Practices/State Calibration]]
 - [[3-Practices/Partnering Workflow]]
 - [[3-Practices/Execution Workflow]]
@@ -50,7 +51,14 @@
 - [[6-Users/Xavier/Blindspots]]
 - [[6-Users/Xavier/History]]
 - [[6-Users/Xavier/Commitments]]
+- [[6-Users/Xavier/Commitments-Codex-To-Xavier]]
+- [[6-Users/Xavier/Commitments-Xavier-To-Self]]
 - [[6-Users/Xavier/Growth]]
+- [[6-Users/Xavier/Growth Arc - 01 State]]
+- [[6-Users/Xavier/Growth Arc - 02 Expression Accuracy]]
+- [[6-Users/Xavier/Growth Arc - 03 Business Direction]]
+- [[6-Users/Xavier/Growth Arc - 04 Agent Management]]
+- [[9-Reviews/Self-Audit Protocol]]
 
 ## 运行思路
 先读 schema，再检索旧知识，再校准人和状态，再做执行和验证，最后回写长期系统。
