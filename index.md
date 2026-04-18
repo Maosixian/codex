@@ -20,12 +20,14 @@
 
 ## 关键阅读
 - [[2-Knowledge/Codex System]]
+- [[2-Knowledge/Context Threshold Model]]
 - [[2-Knowledge/Retrieval Model]]
 - [[3-Practices/Session Checklist]]
 - [[3-Practices/Session Startup Protocol]]
 - [[3-Practices/State Calibration]]
 - [[3-Practices/Partnering Workflow]]
 - [[3-Practices/Execution Workflow]]
+- [[3-Practices/Context Threshold and Compression]]
 - [[3-Practices/Search Before Answering]]
 - [[3-Practices/Conversation Capture Protocol]]
 - [[3-Practices/Memory Ingest and Atomic Update]]

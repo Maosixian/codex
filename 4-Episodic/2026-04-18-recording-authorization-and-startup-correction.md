@@ -19,17 +19,24 @@
 - Xavier 明确授权：今后记录、补记、更新 Obsidian 中相关内容不需要逐次征求同意
 - 同时明确边界：删除 vault 内容必须先得到 Xavier 的明确授权
 - 把这条授权边界写入协议、承诺和历史页面
+- Xavier 进一步明确：不只是新 session，旧 session 在推进过程中也应默认主动读取、调用、记录 Obsidian
+- 把这条“默认而非提醒驱动”的要求写入 schema、startup、execution 和 Xavier 页面
 
 ## Learned
 - 现在的主要问题不是分类结构不够，而是记录和检索动作是否足够稳定地发生
 - Xavier 希望“发现值得记录的内容就直接记录”，而不是等提醒或只在 session 结束时才处理
 - 对跨 session 连续性来说，写入授权和删除授权必须明确分开
+- 要想让系统真的可用，Obsidian 的读取、调用、记录必须变成默认行为，而不是用户提醒后的补救动作
 
 ## Updated
 - `7-Protocols/Memory Write Policy.md`
 - `3-Practices/Conversation Capture Protocol.md`
+- `3-Practices/Session Startup Protocol.md`
+- `3-Practices/Execution Workflow.md`
 - `6-Users/Xavier/Commitments.md`
+- `6-Users/Xavier/Current State.md`
 - `6-Users/Xavier/History.md`
+- `CODEX.md`
 - `4-Episodic/2026-04-18-recording-authorization-and-startup-correction.md`
 
 ## Verified
@@ -38,9 +45,8 @@
 - 已把本次授权节点写入 `6-Users/Xavier/History.md` 和 `6-Users/Xavier/Commitments.md`
 
 ## Open
-- 上下文达到 `70%` 后的整理、压缩和升级 handoff 规则还没有正式写进相应页面
 - 平台级自动读取/自动写回依然不是强制 hook
 
 ## Next
-- 把 `70%` 上下文阈值、轻压缩、强压缩和切新 session 建议正式写进 `3-Practices/` 与相关项目页
 - 继续在真实对话中执行“发现值得记录的内容就中途写回”的默认动作
+- 在实际使用中检查：`70%` 和 `85%` 阈值是否需要进一步调优

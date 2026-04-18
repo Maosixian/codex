@@ -25,12 +25,19 @@
 - 新 session 默认先读 schema，再检索 Obsidian
 - 重要 session 默认留下可续接记录
 - 不承诺字面上的无限上下文，改为可持续增长的外部长期记忆
+- 上下文接近 `70%` 时默认进入整理与轻压缩；接近 `85%` 或明显出现 context rot 时升级为 handoff 与建议切新 session
 
 ## Risks
 
 - 如果后续不持续回写，系统会再次退化成“看起来完整但实际不更新”
 - 如果迁移旧内容过多过快，容易把噪音也带进来
 - 如果 session 不做 handoff，跨 session 的连续性会弱化
+- 如果阈值管理只停留在口头约定，不挂到知识页和实践页里，后续仍然会漂移
+
+## Related
+
+- [[../2-Knowledge/Context Threshold Model]]
+- [[../3-Practices/Context Threshold and Compression]]
 
 ## Commands
 

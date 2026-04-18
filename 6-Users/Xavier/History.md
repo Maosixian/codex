@@ -21,3 +21,4 @@
 - Xavier 强调只能继续修改 `codex`，不能动其他 vault，也不能动 `obsidian-auto-sync`。
 - Xavier 进一步强调：希望新对话开始后先读 vault，并把每次对话的重点和信息记录进 Obsidian。
 - Xavier 明确授权：记录、补记、更新 Obsidian 中的相关内容不需要逐次征求同意；但删除 vault 内容必须先得到他的明确授权。
+- Xavier 进一步要求：无论新 session 还是旧 session，Codex 都应默认主动读取、调用、记录 Obsidian，而不是等提醒。
